@@ -1,0 +1,9 @@
+# Arduino / IDE temp files
+*.hex
+*.elf
+*.o
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
