@@ -13,19 +13,19 @@ A robot designed to follow a black line on a white background (or vice versa) us
 ### 2. [Obstacle Avoidance Bot](./Obstacle%20avoidance%20Bot)
 A smart robot that autonomously navigates its environment by detecting obstacles using an ultrasonic sensor and avoiding collisions.
 - **Source Code**: [`obstacleavoidance.ino`](./Obstacle%20avoidance%20Bot/obstacleavoidance.ino)
-- **Documentation**: [`obstacle avoidance bot.pdf`](./Obstacle%20avoidance%20Bot/obstacle avoidance bot.pdf)
-- **Demo Image**: [`obstacle avoidance Bot.jpeg`](./Obstacle%20avoidance%20Bot/obstacle avoidance Bot.jpeg)
+- **Documentation**: [`obstacle avoidance bot.pdf`]
+- **Demo Image**: [`obstacle avoidance Bot.jpeg`]
 
 ### 3. [Robo Soccer RC Car](./Robo%20Soccer%20RC%20Car)
 A Bluetooth-controlled remote control (RC) car using an ESP32 microcontroller, tailored for robo-soccer competitions.
 - **Source Code**: [`RC_Car.ino`](./Robo%20Soccer%20RC%20Car/RC_Car.ino)
-- **Documentation**: [`Bluetooth Controlled RC Car using ESP32.pdf`](./Robo%20Soccer%20RC%20Car/Bluetooth Controlled RC Car using ESP32.pdf)
-- **Demo Video**: [`Robo Soccer Competition.mp4`](./Robo%20Soccer%20RC%20Car/Robo Soccer Competition.mp4)
+- **Documentation**: [`Bluetooth Controlled RC Car using ESP32.pdf`]
+- **Demo Video**: [`Robo Soccer Competition.mp4`]
 
 ### 4. [Wall Following Bot](./Wall%20Following%20Bot)
 A robot designed to traverse a maze or move along a wall by maintaining a set distance from the wall using ultrasonic sensors.
 - **Source Code**: [`wall.ino`](./Wall%20Following%20Bot/wall.ino)
-- **Documentation**: [`Wall following Robot.pdf`](./Wall%20Following%20Bot/Wall following Robot.pdf)
+- **Documentation**: [`Wall following Robot.pdf`]
 - **Demo Image**: [`Wall_following_bot.jpeg`](./Wall%20Following%20Bot/Wall_following_bot.jpeg)
 
 ## Getting Started
